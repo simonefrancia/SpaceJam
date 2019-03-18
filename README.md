@@ -1,4 +1,4 @@
-# Basketball Dataset for Action Recognition 
+# SpaceJam: a Dataset for Action Recognition in Basketball
 [Demo Video](https://www.youtube.com/watch?v=PEziTgHx4cA).
 
 
