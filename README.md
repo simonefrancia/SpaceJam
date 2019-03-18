@@ -1,5 +1,10 @@
-# Basketball Dataset for Action Recognition [Demo Video](https://www.youtube.com/watch?v=PEziTgHx4cA).
+# Basketball Dataset for Action Recognition 
+[Demo Video](https://www.youtube.com/watch?v=PEziTgHx4cA).
 
+
+<p align="center">
+    <img src=".github/clip.jpg?raw=true" width="700">
+</p>
 
 This repo contains two datasets (clips->.mp4 files and joints -> .npy files) of basketball single-player actions. In Figure below, a histogram of the number of examples is shown for every class. The size of the two final annotated datasets is about 32'560 examples, which can represent the basis for the subsequent training and testing phases for a classification of basket-like actions through Deep Neural Networks.
 
