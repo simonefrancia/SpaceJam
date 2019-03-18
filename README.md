@@ -5,5 +5,8 @@ This repo contains two datasets (clips->.mp4 files and joints -> .npy files) of 
 
 
 
+https://drive.google.com/open?id=1hLpbLmLFK2-GIvsmpJelGlEx94yQM2Ts
+
+
 Each example of the first dataset (called clip Dataset) consists of 16frame in RGB focused on one player, while each of the second (called joint Dataset) consists of the coordinates (x, y) on the image plane of the player's joints. The identifier of "parallel" examples will be the same, while what identifies them is the extension of the files on which they are stored; each clip is compressed into a mp4 file (namefile.mp4), while the joints are stored as sufile vectors numpy (namefile.npy).
 
