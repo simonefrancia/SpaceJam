@@ -5,7 +5,11 @@ This repo contains two datasets (clips->.mp4 files and joints -> .npy files) of 
 
 
 
-https://drive.google.com/open?id=1hLpbLmLFK2-GIvsmpJelGlEx94yQM2Ts
+You can download the entire Dataset (both joints and clips) from [here](https://drive.google.com/open?id=1hLpbLmLFK2-GIvsmpJelGlEx94yQM2Ts).
+Inside ```dataset.zip``` you can find the annotations of all examples and labels annotations, both in JSON format. 
+
+Thesis is available at this [link](https://www.researchgate.net/publication/330534530_Classificazione_di_Azioni_Cestistiche_mediante_Tecniche_di_Deep_Learning/stats). [Soon available also in English]
+
 
 
 Each example of the first dataset (called clip Dataset) consists of 16frame in RGB focused on one player, while each of the second (called joint Dataset) consists of the coordinates (x, y) on the image plane of the player's joints. The identifier of "parallel" examples will be the same, while what identifies them is the extension of the files on which they are stored; each clip is compressed into a mp4 file (namefile.mp4), while the joints are stored as sufile vectors numpy (namefile.npy).
