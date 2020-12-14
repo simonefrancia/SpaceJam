@@ -1,5 +1,7 @@
 # SpaceJam: a Dataset for Basketball Action Recognition
 
+You can contribute with 50 cents for Dataset.
+[Paypal](https://www.paypal.me/franciasimone)
 
 [Demo Video](https://www.youtube.com/watch?v=PEziTgHx4cA)
 
